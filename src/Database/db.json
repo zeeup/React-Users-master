@@ -1,0 +1,52 @@
+{
+  "users": [
+    {
+      "name": "Fakhar Zaman",
+      "username": "099",
+      "email": "zaman@gmail.com",
+      "phone": "0300000000000",
+      "website": "pcb.com",
+      "id": 1
+    },
+    {
+      "name": "Shahid Afridi",
+      "username": "034",
+      "email": "boom@gmail.com",
+      "phone": "0300000000000",
+      "website": "pcb.com",
+      "id": 2
+    },
+    {
+      "name": "M Rizwan",
+      "username": "932",
+      "email": "rizwan@gmail.com",
+      "phone": "0300000000000",
+      "website": "pcb.com",
+      "id": 3
+    },
+    {
+      "name": "Babar Azam",
+      "username": "013",
+      "email": "azam@gmail.com",
+      "phone": "0300000000000",
+      "website": "pcb.com",
+      "id": 4
+    },
+    {
+      "name": "Wahab Riaz",
+      "username": "047",
+      "email": "riaz@gmail.com",
+      "phone": "0300000000000",
+      "website": "pcb.com",
+      "id": 5
+    },
+    {
+      "name": "Shoaib malik",
+      "username": "1034",
+      "email": "malik@gmail.com",
+      "phone": "0300000000000",
+      "website": "pcb.com",
+      "id": 6
+    }
+  ]
+}
